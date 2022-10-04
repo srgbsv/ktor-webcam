@@ -1,3 +1,3 @@
 ktor-webcam
 
-Server application for webcam streaming on Ktor
+Example application of webcam image streaming with ktor server. Proof of concept
